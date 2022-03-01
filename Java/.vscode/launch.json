@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArraysSolution",
+            "request": "launch",
+            "mainClass": "ArraysSolution",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiceArray",
+            "request": "launch",
+            "mainClass": "practiceArray",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiceArrays",
+            "request": "launch",
+            "mainClass": "practiceArrays",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch shubham",
+            "request": "launch",
+            "mainClass": "shubham",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstClass",
+            "request": "launch",
+            "mainClass": "firstClass",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch jay",
+            "request": "launch",
+            "mainClass": "jay",
+            "projectName": "Java_3e756e18"
+        },
+        {
+            "type": "java",
+            "name": "Launch first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysSolution",
+            "request": "launch",
+            "mainClass": "ArraysSolution",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditions",
+            "request": "launch",
+            "mainClass": "Conditions",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopsAdvancedPattern",
+            "request": "launch",
+            "mainClass": "LoopsAdvancedPattern",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopsPatterns",
+            "request": "launch",
+            "mainClass": "LoopsPatterns",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoopsSolution",
+            "request": "launch",
+            "mainClass": "LoopsSolution",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringss",
+            "request": "launch",
+            "mainClass": "Stringss",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArrays",
+            "request": "launch",
+            "mainClass": "TwoDArrays",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArraysSolution",
+            "request": "launch",
+            "mainClass": "TwoDArraysSolution",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubbleSorting",
+            "request": "launch",
+            "mainClass": "bubbleSorting",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditionSolution",
+            "request": "launch",
+            "mainClass": "conditionSolution",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstClass",
+            "request": "launch",
+            "mainClass": "firstClass",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertion",
+            "request": "launch",
+            "mainClass": "insertion",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch jay",
+            "request": "launch",
+            "mainClass": "jay",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiceArray",
+            "request": "launch",
+            "mainClass": "practiceArray",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch quickSortS",
+            "request": "launch",
+            "mainClass": "quickSortS",
+            "projectName": "Java_8f0cad1d"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionSorting",
+            "request": "launch",
+            "mainClass": "selectionSorting",
+            "projectName": "Java_8f0cad1d"
+        }
+    ]
+}

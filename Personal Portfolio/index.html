@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Porfolio Website</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="js/custom.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+    <script src="js/typed.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">PORTFO<span>LIO</span></div>
+            <div class="menu">
+                <a href="#"> Home</a>
+                <a href="#"> About</a>
+                <a href="#"> Skills</a>
+                <a href="#"> Services</a>
+                <a href="#"> Contact</a>
+            </div>
+        </nav>
+        
+        <div class="text">
+            <p>Hello, I am</p>
+            <h1>Shubham Rathod</h1>
+            <p>And I am a <span id="new" style="color:#e47c3c"></span></p>
+            <button class="c-btn">Hire me</button>
+
+        </div>  
+    </header>
+
+    <section id="sidenav">
+        <img src="https://th.bing.com/th/id/OIP.Jp3Rb6H1_1GszQnn4WAiZwHaHB?pid=ImgDet&rs=1" id="menubar" alt="menubar">
+        <a href="#"> Home</a>
+        <a href="#"> About</a>
+        <a href="#"> Skills</a>
+        <a href="#"> Services</a>
+        <a href="#"> Contact</a>
+    </section>
+    <section id="about">
+        <div class="section-info">
+            <h1>About</h1>
+            <p>Who i am?</p>
+        </div>
+        <div class="about-row">
+            <div class="about-left-col">
+                <img src="images/shubham.jpg" alt="shubham">
+            </div>
+    
+            <div class="about-right-col">
+                <p id="p-title">
+                   Hello, I'm Shubham & I'm a  <span id="new2" style="color:#e47c3c"></span>
+                <p>
+                    Astrology is the study of the influence that distant cosmic 
+                    objects,usually stars and planets, have on human lives. Astrology
+                    is the study of the influence that distant cosmic objects, usually 
+                    stars and planets, have on human lives. objects, usually stars and
+                    planets, have on human lives. objects, usually stars and planets, 
+                    have on human lives. 
+                </p>
+                <button class="c-btn">Download CV</button>
+            </div> 
+        </div>
+    </section>
+    
+    <section id="skills">
+        <div class="section-info">
+            <h1 style="color: white">Skill's</h1>
+            <p>Who i am?</p>
+        </div> 
+            <div class="skills-row">
+                <div class="skills-left-col">
+                    <p>
+                        Astrology is the study of the influence that distant cosmic 
+                        objects,usually stars and planets, have on human lives. Astrology
+                        is the study of the influence that distant cosmic objects, usually 
+                        stars and planets, have on human lives. objects, usually stars and
+                        planets, have on human lives. objects, usually stars and planets, 
+                        have on human lives. 
+                    </p>
+                    <button class="c-btn">Read more</button>
+                </div>
+                <div class="skills-right-col">
+                    <div class="progress-div">
+                        <p>
+                           <span>HTML</span><br>
+                           <progress value="90" max="100"></progress>
+                           <span>90%</span>
+                        </p>
+                        <p>
+                            <span>CSS</span><br>
+                            <progress value="80" max="100"></progress>
+                            <span>80%</span>
+                        </p>
+                        <p>
+                            <span>JAVASCRIPT</span><br>
+                            <progress value="75" max="100"></progress>
+                            <span>75%</span>
+                        </p>
+                        <p>
+                            <span>JAVA</span><br>
+                             <progress value="60" max="100"></progress>
+                            <span>60%</span>
+                        </p>
+                        <p>
+                            <span>REACT</span><br>
+                            <progress value="55" max="100"></progress>
+                            <span>55%</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+       
+    </section>
+    <section id="services">
+        <div class="section-info">
+            <h1>Services</h1>
+            <p>What We Provide</p>
+        </div>
+        <div class="services-row">
+            <div class="services-box"data-tilt>
+            <img src="images/b2.png" alt="services-box picture">
+            <h2>Web Design</h2>
+            <p> Astrology
+                is the study of the influence that distant cosmic objects, usually 
+                stars and planets, have on human lives.
+            </p>
+            
+        </div>
+
+  
+        <div class="services-box"data-tilt>
+            <img src="images/b2.png" alt="services-box picture">
+            <h2>Web Development</h2>
+            <p> Astrology
+                is the study of the influence that distant cosmic objects, usually 
+                stars and planets, have on human lives.
+            </p>
+        </div>
+
+
+        <div class="services-box"data-tilt>
+            <img src="images/b2.png" alt="services-box picture">
+            <h2>App Development</h2>
+            <p> Astrology
+                is the study of the influence that distant cosmic objects, usually 
+                stars and planets, have on human lives.
+            </p>
+        </div>
+    </section>
+    <section id="contact">
+        <div class="section-info" style="color: white;">
+            <h1>Get in Touch</h1>
+            <p style="color: black;">We are Available</p>
+        </div>
+        <div class="contact-row">
+            <div class="contact-left-col">
+            <img src="images/b3.png" alt="">
+            </div>
+            <div class="contact-right-col">
+               <form>
+                   <h2>Connect with us</h2>
+                   <input type="text" name="name" placeholder="Name">
+                   <input type="email" name="email" placeholder="E-mail">
+                    <br>
+                    <textarea name="Message" id="" cols="40" rows="10" placeholder="Message"></textarea>
+                    <br>
+                    <button class="c-btn"> Submit</button>
+               </form>
+            </div>
+        </div>
+
+    </section>
+    <section id="footer">
+        <h2>Developed by <br> Shubham Rathod</h2>
+        <img src="images/icon.png" width="100" alt="icon">
+
+    </section>
+    <script src="js/jquery.ripples-min.js"></script>
+    <script>
+        jQuery(document).ready(function(){
+            $('header').ripples({
+  dropRadius: 20,
+  perturbance: 0.03,
+  
+});
+        })
+    </script>
+
+    <script>
+        let animate= new Typed('#new',{
+            strings:["Full-Stack Web Developer","Youtuber","Blogger"],
+            typeSpeed:100,
+            backSpeed:100,
+            loop:true,
+        })
+    </script>
+
+<script>
+    let animat= new Typed('#new2',{
+        strings:["Full-Stack Web Developer","Youtuber","Blogger"],
+        typeSpeed:100,
+        backSpeed:100,
+        loop:true,
+    })
+</script>
+<script src="js/tilt.jquery.min.js">
+
+// </script>
+//     <script>
+//         var menu=document.getElementById("menubar");
+//         var sidenav=document.getElementById("sidenav");
+//         sidenav.style.width="0px";
+//         menu.onclick=function(){
+//             if (sidenav.style.width=="0px"){
+//                 sidenav.style.width="250px";
+//             }
+//             else{
+//                 sidenav.style.width="0px";
+//             }
+//         }
+//     </script>
+    
+</body>
+</html>
